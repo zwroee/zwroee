@@ -29,7 +29,7 @@
 [![](https://visitcount.itsvg.in/api?id=zwroee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=KAGA-KOKOt&style=flat-square"/>
- <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DKAGA-KOKO&longCache=true"/>
+ <img src="https://komarev.com/ghpvc/?username=zwroee&style=flat-square"/>
+ <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzwroee&longCache=true"/>
 </p>
 
