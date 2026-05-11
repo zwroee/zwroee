@@ -1,6 +1,6 @@
 <div align="center">
- 
-![download (38) (1)](https://github.com/user-attachments/assets/a18e826e-c7e7-4eed-adaa-eb1f4e640f56)
+
+ <img width="2001" height="811" alt="download (13)" src="https://github.com/user-attachments/assets/803e6c65-fc23-4b45-9afa-2cd0fd09f4e0" />
 
 </div>
 
